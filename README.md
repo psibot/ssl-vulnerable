@@ -32,4 +32,4 @@ Apple was owned in - 10 Oct 2024
 
 ![APPLE-BREACH](https://imgur.com/BUqSudB.png)
 
-[APPLE-owned](https://www.youtube.com/watch?v=IHo-xQTbmos&ab_channel=HackTheMatrix)
+[Exploiting BREACH Attack (CVE-2013-3587)](https://www.youtube.com/watch?v=IHo-xQTbmos&ab_channel=HackTheMatrix)
