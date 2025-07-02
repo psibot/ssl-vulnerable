@@ -18,4 +18,4 @@ To check facebook.com run the following command
 
 ```testssl  -U https://www.facebook.com/```
 
-![FB](https://imgur.com/a/MFndLQF.png)
+![FB](https://imgur.com/cFjxCSd.png)
