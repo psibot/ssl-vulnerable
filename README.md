@@ -57,6 +57,9 @@ or
 
 ![FB-BREACH-EXTENDED](https://imgur.com/bwHvebu.png)
 
+BEAST (CVE-2011-3389)
 
+```python3 beast-tester.py --verify www.facebook.com```
 
+![FB-BEAST](https://imgur.com/7XiuhT3.png)
 
