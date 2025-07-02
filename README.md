@@ -70,3 +70,5 @@ BEAST (CVE-2011-3389)
 
 Other mentions: 
 [Black Hat USA 2013 - SSL, gone in 30 seconds - a BREACH beyond CRIME](https://www.youtube.com/watch?v=CoNKarq1IYA&ab_channel=BlackHat)
+
+[BREACH Attack](https://www.youtube.com/watch?v=Sn-URDQCJHs&ab_channel=MiguelOleoBlanco) 
