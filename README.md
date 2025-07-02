@@ -12,10 +12,18 @@ Ubuntu : ``` sudo snap install testssl ```
 
 Some info , apple.com , facebook are still vurnerible to old ssl versions and exploits !!
 
-Example of facebook.com 
+### Example of facebook.com 
 
 To check facebook.com run the following command 
 
 ```testssl  -U https://www.facebook.com/```
 
 ![FB](https://imgur.com/cFjxCSd.png)
+
+### Example of apple.com 
+
+To check apple.com run the following command 
+
+``` testssl  -U https://www.apple.com/ ```
+
+![APPLE](https://imgur.com/g1cS869.png)
