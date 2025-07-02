@@ -1,4 +1,4 @@
-# SSL Full Check and scripts 
+# SSL exploit checks and scripts 
 
 What is needed? 
 
@@ -7,6 +7,10 @@ Ubuntu / Kali Distro
 ```sudo apt search testssl```
 
 Ubuntu : ``` sudo snap install testssl ```
+
+Python3 : ``` pip3 install requests ```
+
+If you need python3 packages use pip3 or pipx to install needed. 
 
 ## Some know issues
 
