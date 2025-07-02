@@ -32,4 +32,4 @@ Apple was owned in - 10 Oct 2024
 
 ![APPLE-BREACH](https://imgur.com/BUqSudB.png)
 
-https://www.youtube.com/watch?v=IHo-xQTbmos&ab_channel=HackTheMatrix
+[APPLE-owned](https://www.youtube.com/watch?v=IHo-xQTbmos&ab_channel=HackTheMatrix)
