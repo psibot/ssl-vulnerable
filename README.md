@@ -39,3 +39,24 @@ A example of this can be found here:
 
 ```python3 apple-breach-poc.py ```
 
+### But let us focus on facebook.com 
+
+Facebook login portal 
+
+https://www.facebook.com/login/ 
+
+BREACH (CVE-2013-3587) 
+
+```python3 breach-tester.py https://www.facebook.com/login/```
+
+![FB-BREACH-BASIC](https://imgur.com/ETby5xH.png)
+
+or 
+
+```python3 breach-check1.py --verify  https://www.facebook.com/login/```
+
+![FB-BREACH-EXTENDED](https://imgur.com/bwHvebu.png)
+
+
+
+
