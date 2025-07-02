@@ -27,3 +27,9 @@ To check apple.com run the following command
 ``` testssl  -U https://www.apple.com/ ```
 
 ![APPLE](https://imgur.com/g1cS869.png)
+
+Apple was owned in - 10 Oct 2024
+
+![APPLE-BREACH](https://imgur.com/BUqSudB.png)
+
+![APPLE-BREAHC-VID](https://www.youtube.com/watch?v=IHo-xQTbmos&ab_channel=HackTheMatrix)
